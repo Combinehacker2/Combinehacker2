@@ -26,17 +26,19 @@ My methodology relies on minimizing attack surfaces and establishing persistent 
 </p>
 
 ---
-
 ## 💻 Tech Stack Ecosystem
 <p align="left">
-  <!-- Ícone do Arch Linux -->
-  <img src="https://shields.io" />
-  <!-- Ícone do Python -->
-  <img src="https://shields.io" />
-  <!-- Ícone do Bash/Shell -->
-  <img src="https://shields.io" />
-  <!-- Ícone do Docker -->
-  <img src="https://shields.io" />
+  <!-- Ícone do Arch Linux (Modifique a altura no height="40") -->
+  <img src="https://avatars.githubusercontent.com/u/110123898?v=4" height="40" alt="Arch Linux" />
+  
+  <!-- Ícone do Python (Modifique a altura no height="40") -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="40" alt="Python" />
+  
+  <!-- Ícone do Bash/Shell (Modifique a altura no height="40") -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwlu137J56HUkXHfiMVbV-HLAKykhE-nKvOTzs0AK7g&s=10" height="40" alt="Shell Script" />
+  
+  <!-- Ícone do Docker (Modifique a altura no height="40") -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1fbm1IBBeScdDXRUjag_KxkT1JpwwgqlPb0FIsKjd-w&s=10" height="40" alt="Docker" />
 </p>
 
 ---
