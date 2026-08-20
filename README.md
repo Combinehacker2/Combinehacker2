@@ -9,7 +9,7 @@
 Independent System Architect and Cybersecurity student. I build, audit, and maintain standalone infrastructure nodes, focusing heavily on operational security, network isolation, and defensive engineering [~ ➜, ~ ➜].
 
 <p align="right">
-  <img src="https://tenor.com" width="320" alt="Terminal Workflow" />
+  <img src="https://linuxblog.io/wp-content/uploads/2021/11/btop.png" width="900" alt="Terminal Workflow" />
 </p>
 
 ---
